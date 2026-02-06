@@ -1,0 +1,2 @@
+@import "tailwindcss";
+.chat-emoji-picker { z-index: 60; position: absolute; bottom: 80px; right: 20px; }
